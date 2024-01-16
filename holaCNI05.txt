@@ -1,0 +1,5 @@
+"No temo a los ordenadores; lo que temo es quedarme sin ellos" CNI05
+-- Isaac Asimov 
+"La informática tiene que ver con los ordenadores lo mismo que la astronomía con los
+telescopios" CNI05
+-- Edsger W. Dijkstra
